@@ -1,0 +1,53 @@
+
+.farming-heading{
+    color:#064320;
+    font-family:"Robotic";
+    font-size:34px;
+    padding:5px;
+    text-align:center;
+    font-weight:600;
+}
+.thought{
+    font-size:25px;
+    font-family: "Arial";
+    color:black;
+    padding:10px;
+    text-align:center;
+}
+.button{
+    height:38px;
+    width:136px;
+    border-width:0px;
+    border-radius:6px;
+    color:#064320;
+}
+.agriculture-heading{
+    font-family:"Robotic";
+    font-size:27px;
+    font-weight:600;
+}
+.description{
+    color:dimgray;
+    font-size:20px;
+}
+.bg-container{
+    background-image: url("https://img.freepik.com/free-photo/rice-field-bali_1385-1635.jpg?size=626&ext=jpg&ga=GA1.2.564407571.1684833391&semt=ais");
+    height:180vh;
+    background-size:cover;
+}
+.main-heading{
+    color:aliceblue;
+    font-family:"Robotic";
+    font-size: 34px;
+    font-weight:600;
+}
+.image-size{
+    height:150px;
+    width:200px;
+    margin:20px;
+}
+.sub-heading{
+    font-size:28px;
+    font-family:"Robotic";
+    color:cornsilk
+}
